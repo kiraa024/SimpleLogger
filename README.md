@@ -5,6 +5,7 @@ A thread-safe, asynchronous, and easy-to-use logging utility for C# applications
 Supports log levels, console and file output, and automatic file rotation.
 
 Created by kira024: https://github.com/kira024
+Get Latest Version of SimpleLogger: https://github.com/kiraa024/SimpleLogger/blob/main/files/SimpleLogger.cs
 
 Features
 --------
